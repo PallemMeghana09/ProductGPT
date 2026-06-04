@@ -1,4 +1,4 @@
-# Remix: ProductGPT 🛍️🤖
+#  ProductGPT 🛍️🤖
 
 An advanced, AI-powered product recommendation agent and conversational shopping assistant that helps users discover, compare, and choose the perfect products for their needs. 
 
