@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ProductGPT",
+  "description": "An advanced, AI-powered product recommendation agent and conversational shopping assistant that helps users discover, compare, and choose products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
